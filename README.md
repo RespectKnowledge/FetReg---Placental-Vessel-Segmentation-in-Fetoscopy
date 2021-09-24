@@ -6,14 +6,14 @@ Please downlaad the dataset from FetReg - Placental Vessel Segmentation and Regi
 
 # https://www.synapse.org/#!Synapse:syn25313156/wiki/609152
 
-step1: split dataset into training and validation using random cross validation approach. I have also provided csv files for 
+step1: Split dataset into training and validation using random cross validation approach. I have also provided csv files for 
 5-k fold.
 
 setp2: Please check the DataLoader_Vis for data visualization and batch-processing
 
 step3: Define the model
 
-step4: train and validate the model
+step4: Train and validate the model
 
 step5: Predict the ensmeble model and apply test time augmentation
 
